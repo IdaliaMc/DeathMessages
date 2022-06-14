@@ -1,0 +1,9 @@
+messages:
+  - "§4§l✘ §c %deadName% §7s'est fait sabrer par §e %killerName% §7!"
+  - "§4§l✘ §c %deadName% §7s'est fait massacrer par §e%killerName% §7!"
+  - "§4§l✘ §c %deadName% §7s'est fait détruire par §e %killerName% §7!"
+  - "§4§l✘ §c %deadName% §7a été tué par §e %killerName% §7!"
+  - "§4§l✘ §c %deadName% §7a été exécuté par §e %killerName% §7!"
+  - "§4§l✘ §c %deadName% §7a été embroché par §e %killerName% §7!"
+
+noKillerMessage: "§4§l✘ §c%deadName% §7est mort !"
